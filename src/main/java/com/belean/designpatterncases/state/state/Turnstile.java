@@ -1,7 +1,5 @@
 package com.belean.designpatterncases.state.state;
 
-import com.belean.designpatterncases.state.switches.TurnstileController;
-
 /**
  * @author belean
  * @date 2021/10/20
