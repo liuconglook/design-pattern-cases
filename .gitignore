@@ -37,7 +37,7 @@ target
 out
 .idea
 .mvn
-design-mode-cases.iml
+design-pattern-cases.iml
 mvnw
 mvnw.cmd
 HELP.md
