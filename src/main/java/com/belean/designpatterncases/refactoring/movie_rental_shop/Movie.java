@@ -69,7 +69,6 @@ public class Movie {
         return price.getCharge(daysRented);
     }
 
-
     /**
      * 计算积分
      *
